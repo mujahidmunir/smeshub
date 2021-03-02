@@ -1,21 +1,7 @@
 <!DOCTYPE html>
-<!--
-Template Name: AdminUX-Pro - Responsive Admin Dashboard Template build with Bootstrap 4.3.1
-Version: 1.0.0
-Author: Maxartkiller
-Website: https://www.maxartkiller.com/
-Contact: info@maxartkiller.com
-Follow: www.twitter.com/maxartkiller
-Like: www.facebook.com/maxartkiller
-Purchase: https://www.maxartkiller.com/
-License: You must have a valid license purchased only from maxartkiller.com in order to legally use the theme for your project.
--->
+
 <html lang="en">
 
-<!-- Head tag -->
-
-
-<!-- Mirrored from maxartkiller.com/website/AdminuxPRO/HTML/pages/coming-soon.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Nov 2019 10:37:39 GMT -->
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,29 +10,20 @@ License: You must have a valid license purchased only from maxartkiller.com in o
     <title>Smeshub</title>
     <link rel="shortcut icon" href="assets/logo.png">
 
-    <!-- g fonts style -->
+   
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&amp;display=swap" rel="stylesheet">
-    <!-- g fonts style ends -->
-
-    <!-- Vendor or 3rd party style -->
-
-    <!-- material icons -->
+   
     <link href="assets/vendor/material-icons/material-icons.css" rel="stylesheet">
-    <!-- flags icons -->
+    
     <link href="assets/vendor/flags/css/flag-icon.min.css" rel="stylesheet">
-    <!-- daterange picker -->
+    
     <link href="assets/vendor/daterangepicker-master/daterangepicker.css" rel="stylesheet">
 
-    <!-- Vendor or 3rd party style ends -->
-
-    <!-- Customized template style mandatory -->
+    
     <link href="assets/css/style-darkblue-dark.css" rel="stylesheet" id="stylelink">
-    <!-- Customized template style ends -->
+   
 </head>
 
-<!-- Head tag ends -->
-
-<!-- Body -->
 
 <body class="h-100 no-sidemenu">
 
@@ -57,7 +34,7 @@ License: You must have a valid license purchased only from maxartkiller.com in o
             <img src="assets/smeshub-new.png" alt="">
         </div>
 
-        <!-- Main container starts -->
+       
         <div class="container main-container" id="main-container">
             <div class="row login-row-height">
                 <div class="col-10 col-lg-7 align-self-center text-center mx-auto ">
@@ -79,36 +56,23 @@ License: You must have a valid license purchased only from maxartkiller.com in o
                 </div>
             </div>
         </div>
-        <!-- Main container ends -->
     </div>
 
 
 </div>
-<!-- wrapper ends -->
 
-
-<!-- Global js mandatory -->
 <script src="assets/js/jquery-3.3.1.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
 <script src="assets/vendor/cookie/jquery.cookie.js"></script>
-<!-- Global js ends -->
 
-<!-- Vendor or 3rd party js -->
-<!-- date range picker -->
 <script src="assets/vendor/daterangepicker-master/moment.min.js"></script>
 <script src="assets/vendor/daterangepicker-master/daterangepicker.js"></script>
-<!-- Vendor or 3rd party js ends -->
 
-<!-- Customized template js mandatory -->
 <script src="assets/js/main.js"></script>
-<!-- Customized template js ends -->
 
-<!-- theme picker -->
 <script src="assets/js/style-picker.js"></script>
-<!-- theme picker ends -->
 
-<!-- Customized page level js -->
 <script>
     'use strict'
     $(document).ready(function() {
@@ -144,11 +108,7 @@ License: You must have a valid license purchased only from maxartkiller.com in o
     });
 
 </script>
-<!-- Customized page level js ends -->
+
 </body>
 
-<!-- Body ends -->
-
-
-<!-- Mirrored from maxartkiller.com/website/AdminuxPRO/HTML/pages/coming-soon.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Nov 2019 10:37:39 GMT -->
 </html>
